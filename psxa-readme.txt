@@ -8,6 +8,12 @@ Your name: Michael Chagnon
 Hours to complete assignment: 3hrs
 
 /**********************************************************************
+ *  How to run program.
+ **********************************************************************/
+To run program make first.
+
+
+/**********************************************************************
  *  Briefly discuss the assignment itself and what you accomplished.
  **********************************************************************/
 I redid PS1b PhotoMagic. For changes I switched the 'int' data type on lines 18 and 19
@@ -38,23 +44,3 @@ each pixel in the image based on the seed and sets the new values.
  **********************************************************************/
 How to encode and decode an image using a FibLFSR
 
-
-/**********************************************************************
- *  List whatever help (if any) you received from the instructor,
- *  classmates, or anyone else.
- **********************************************************************/
-NA
-
-
-/**********************************************************************
- *  Describe any serious problems you encountered.  
- *  If you didn't complete any part of any assignment, 
- *  the things that you didn't do, or didn't get working.                  
- **********************************************************************/
-NA
-
-
-/**********************************************************************
- *  List any other comments here.                                     
- **********************************************************************/
- NA
