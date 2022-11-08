@@ -17,6 +17,9 @@ in PhotoMagic.cpp to 'unsigned int' as specified by grader.
 I had to encode and decode a picture using a LFSR. I used SFML to process
 and display the images. As well as used it to change RGB values for each individuial pixel.
 
+Attached to this repository there are two pictures showing an image of a cat being encoded and
+another image of it being decoded.
+
 
  /**********************************************************************
  *  Discuss one or more key algorithms, data structures, or 
