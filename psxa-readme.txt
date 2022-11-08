@@ -7,11 +7,6 @@ Your name: Michael Chagnon
 
 Hours to complete assignment: 3hrs
 
-/**********************************************************************
- *  How to run program.
- **********************************************************************/
-To run program make first.
-
 
 /**********************************************************************
  *  Briefly discuss the assignment itself and what you accomplished.
